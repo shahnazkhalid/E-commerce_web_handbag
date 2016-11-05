@@ -1,0 +1,5 @@
+E:\4th smster\Project\handbag\DLL\bin\Debug\DLL.dll.config
+E:\4th smster\Project\handbag\DLL\bin\Debug\DLL.dll
+E:\4th smster\Project\handbag\DLL\bin\Debug\DLL.pdb
+E:\4th smster\Project\handbag\DLL\obj\Debug\DLL.dll
+E:\4th smster\Project\handbag\DLL\obj\Debug\DLL.pdb

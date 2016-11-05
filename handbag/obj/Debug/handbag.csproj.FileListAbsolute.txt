@@ -1,0 +1,9 @@
+E:\4th smster\Project\handbag\handbag\bin\handbag.dll
+E:\4th smster\Project\handbag\handbag\bin\handbag.pdb
+E:\4th smster\Project\handbag\handbag\obj\Debug\handbag.dll
+E:\4th smster\Project\handbag\handbag\obj\Debug\handbag.pdb
+E:\4th smster\Project\handbag\handbag\bin\BLL.dll
+E:\4th smster\Project\handbag\handbag\bin\DLL.dll
+E:\4th smster\Project\handbag\handbag\bin\BLL.pdb
+E:\4th smster\Project\handbag\handbag\bin\DLL.pdb
+E:\4th smster\Project\handbag\handbag\obj\Debug\handbag.csprojResolveAssemblyReference.cache
